@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
