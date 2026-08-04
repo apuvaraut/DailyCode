@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/apuvaraut/DailyCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
