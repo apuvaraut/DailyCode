@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
