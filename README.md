@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/apuvaraut/DailyCode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/apuvaraut/DailyCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/apuvaraut/DailyCode/tree/master/1527-patients-with-a-condition) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/apuvaraut/DailyCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/apuvaraut/DailyCode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/apuvaraut/DailyCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/apuvaraut/DailyCode/tree/master/1757-recyclable-and-low-fat-products) |
