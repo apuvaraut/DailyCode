@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/apuvaraut/DailyCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
@@ -80,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/apuvaraut/DailyCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
