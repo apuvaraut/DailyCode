@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/apuvaraut/DailyCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/apuvaraut/DailyCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/apuvaraut/DailyCode/tree/master/0881-boats-to-save-people) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/apuvaraut/DailyCode/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
