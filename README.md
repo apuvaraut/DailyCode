@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/apuvaraut/DailyCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/apuvaraut/DailyCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/apuvaraut/DailyCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/apuvaraut/DailyCode/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
