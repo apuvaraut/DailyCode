@@ -1,62 +1,48 @@
 class Solution {
     public String minWindow(String s, String t) {
-
-        HashMap<Character, Integer> need = new HashMap<>();
+        HashMap<Character, Integer> need = new HashMap<>(); 
         HashMap<Character, Integer> window = new HashMap<>();
+        int left=0;
+        int right=0;
+        int formed=0;
+        
+        int minlength = Integer.MAX_VALUE;
+        int start=0;
 
-        // Count characters of t
-        for (char c : t.toCharArray()) {
-            need.put(c, need.getOrDefault(c, 0) + 1);
-        }
+    for(char num:t.toCharArray()){
+        need.put(num,need.getOrDefault(num,0)+1);
+    }
+    int required = need.size();
 
-        int left = 0;
-        int minLength = Integer.MAX_VALUE;
-        int start = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-
-            char c = s.charAt(right);
-
-            // Add character to window
-            window.put(c, window.getOrDefault(c, 0) + 1);
-
-            // Check whether current window contains all required characters
-            while (containsAll(need, window)) {
-
-                int length = right - left + 1;
-
-                // Save smallest window
-                if (length < minLength) {
-                    minLength = length;
-                    start = left;
-                }
-
-                // Remove left character
+        while(right<s.length()){
+          char ch=s.charAt(right);
+   window.put(ch,window.getOrDefault(ch,0)+1);
+    if(need.containsKey(ch)&& window.get(ch).intValue()==need.get(ch).intValue()){
+        formed++;
+    }
+while(formed==required){
+  if (right - left + 1 < minlength) {
+    minlength = right - left + 1;
+    start = left;
+}
+   // Remove left character
                 char leftChar = s.charAt(left);
+
                 window.put(leftChar, window.get(leftChar) - 1);
 
-                left++;
-            }
-        }
+if(need.containsKey(leftChar)
+    && window.get(leftChar) < need.get(leftChar)){
+    formed--;
+}
+left++;
+}
+right++;
 
-        if (minLength == Integer.MAX_VALUE) {
+}
+ if (minlength == Integer.MAX_VALUE) {
             return "";
         }
 
-        return s.substring(start, start + minLength);
-    }
-
-    private boolean containsAll(
-            HashMap<Character, Integer> need,
-            HashMap<Character, Integer> window) {
-
-        for (char c : need.keySet()) {
-
-            if (window.getOrDefault(c, 0) < need.get(c)) {
-                return false;
-            }
-        }
-
-        return true;
-    }
+        return s.substring(start, start + minlength);
+}
 }
