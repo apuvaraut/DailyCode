@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/apuvaraut/DailyCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/apuvaraut/DailyCode/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/apuvaraut/DailyCode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/apuvaraut/DailyCode/tree/master/0881-boats-to-save-people) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/apuvaraut/DailyCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/apuvaraut/DailyCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/apuvaraut/DailyCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/apuvaraut/DailyCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/apuvaraut/DailyCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/apuvaraut/DailyCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
