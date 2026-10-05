@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/apuvaraut/DailyCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/apuvaraut/DailyCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/apuvaraut/DailyCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/apuvaraut/DailyCode/tree/master/1052-grumpy-bookstore-owner) |
 ## Prefix Sum
 |  |
 | ------- |
