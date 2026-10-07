@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/apuvaraut/DailyCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/apuvaraut/DailyCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/apuvaraut/DailyCode/tree/master/0680-valid-palindrome-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/apuvaraut/DailyCode/tree/master/1052-grumpy-bookstore-owner) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Queue
 |  |
 | ------- |
