@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
+| [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/apuvaraut/DailyCode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/apuvaraut/DailyCode/tree/master/0543-diameter-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
