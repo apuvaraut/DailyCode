@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apuvaraut/DailyCode/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apuvaraut/DailyCode/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
@@ -236,5 +238,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/apuvaraut/DailyCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
