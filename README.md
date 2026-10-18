@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/apuvaraut/DailyCode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/apuvaraut/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/apuvaraut/DailyCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/apuvaraut/DailyCode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/apuvaraut/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Math
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/apuvaraut/DailyCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/apuvaraut/DailyCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/apuvaraut/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/apuvaraut/DailyCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/apuvaraut/DailyCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/apuvaraut/DailyCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Queue
