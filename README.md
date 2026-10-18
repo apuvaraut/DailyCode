@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/apuvaraut/DailyCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/apuvaraut/DailyCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/apuvaraut/DailyCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/apuvaraut/DailyCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/apuvaraut/DailyCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Database
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/apuvaraut/DailyCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/apuvaraut/DailyCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/apuvaraut/DailyCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/apuvaraut/DailyCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
