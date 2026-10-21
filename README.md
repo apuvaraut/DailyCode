@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/apuvaraut/DailyCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/apuvaraut/DailyCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/apuvaraut/DailyCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/apuvaraut/DailyCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/apuvaraut/DailyCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/apuvaraut/DailyCode/tree/master/0239-sliding-window-maximum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/apuvaraut/DailyCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -257,4 +259,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apuvaraut/DailyCode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
