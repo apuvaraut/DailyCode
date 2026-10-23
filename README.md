@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/apuvaraut/DailyCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/apuvaraut/DailyCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/apuvaraut/DailyCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/apuvaraut/DailyCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/apuvaraut/DailyCode/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/apuvaraut/DailyCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
