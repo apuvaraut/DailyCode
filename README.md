@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/apuvaraut/DailyCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/apuvaraut/DailyCode/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apuvaraut/DailyCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/apuvaraut/DailyCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/apuvaraut/DailyCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/apuvaraut/DailyCode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/apuvaraut/DailyCode/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/apuvaraut/DailyCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/apuvaraut/DailyCode/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/apuvaraut/DailyCode/tree/master/0343-integer-break) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/apuvaraut/DailyCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/apuvaraut/DailyCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
